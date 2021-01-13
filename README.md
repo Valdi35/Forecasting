@@ -1,2 +1,2 @@
 # Forecasting
-Forecasting an unuivariate time series using R
+Forecasting an univariate time series using R
